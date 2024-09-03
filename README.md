@@ -86,6 +86,11 @@ XGBoost: Delivered the highest accuracy and performance, proving to be the best 
 Conclusion
 This project successfully developed and evaluated multiple machine learning models for detecting online payment fraud. After preprocessing the data and experimenting with different models, the XGBoost model emerged as the most effective, achieving an accuracy of 89%. This result demonstrates the model's strong capability to identify fraudulent transactions in the dataset. The project highlights the importance of choosing the right features, scaling techniques, and model configurations to optimize performance. Future work could involve further tuning of the XGBoost model, exploring deep learning approaches, or applying the model to real-world data to assess its practical effectiveness.
 
+![image](https://github.com/user-attachments/assets/f4144bb7-0e97-4eed-80cf-e00c0abf3347)
+
+
+Link: https://colab.research.google.com/drive/1KtjwiwPRQYnPLggAkRwmvy-v1yAecV8L#scrollTo=hAZptQ38jcBo
+
 
 
 
